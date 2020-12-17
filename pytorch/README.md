@@ -1,7 +1,7 @@
 # Pytorch Implementation 
 
 ## Index
-* Chapter 2
+* **Chapter 2: _Preliminaries_**
   * [2.1 Data Manipulation](chapter_02_preliminaries/2.1_Data_Manipulation.ipynb) | [Colab](https://colab.research.google.com/drive/1-ZVio0nNiONPFJ_ZG6iEcFYbhJR8sbru?usp=sharing)
   * [2.2 Data Preprocessing](chapter_02_preliminaries/2.2_Data_Preprocessing.ipynb) | [Colab](https://colab.research.google.com/drive/1-ZU83eFhy7BwYCbovkL49hT7JlFoRSCl?usp=sharing)
   * [2.3 Linear Algebra](chapter_02_preliminaries/2.3_Linear_Algebra.ipynb) | [Colab](https://colab.research.google.com/drive/1-Sl8dG4SNlRCNqVUWcKShzvJnJIkj4yH?usp=sharing)
