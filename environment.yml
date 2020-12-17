@@ -4,8 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - pip
-  - pip:
-    - -r file:requirement.txt
+  - pytorch
+  - torchvision
 prefix: /Users/agupta/anaconda3/envs/d2l
 
