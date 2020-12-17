@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="60%" src="/img/book.png" />
+  <img width="40%" src="/img/book.png" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------
 
-This project is adapted from the original [Dive Into Deep Learning](https://d2l.ai) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. GitHub of the original book: [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en). We have made an effort to modify the book and convert the MXnet code snippets into PyTorch.
+This project is adapted from the original [Dive Into Deep Learning](https://d2l.ai) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. GitHub of the original book: [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en). We have made an effort to modify the book and convert the MXnet code snippets into PyTorch and Tensorflow.
 
 Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `cloning` the repo or using [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks.
 
