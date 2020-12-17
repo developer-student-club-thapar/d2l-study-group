@@ -9,3 +9,4 @@
   * [2.5 Automatic Differentiation](pytorch/chapter_02_preliminaries/2.5_Automatic_Differentiation.ipynb) | [Colab](https://colab.research.google.com/drive/1-I7EJDkGx5oV167zQCasHJnOxqmiMpqK?usp=sharing)
   * [2.6 Probability](chapter_02_preliminaries/2.6_Probability.ipynb) | [Colab](https://colab.research.google.com/drive/1-HnbraCGTMpDxbGG02VIaywy-yFJfTp5?usp=sharing)
   * [2.7 Documentation](chapter_02_preliminaries/2.7_Documentation.ipynb) | [Colab](https://colab.research.google.com/drive/1-HBlrdVyblv74KGpT1xS2ZUBwd0vRXWi?usp=sharing)
+  * [2.8 Notation](chapter_02_preliminaries/notation.md)
