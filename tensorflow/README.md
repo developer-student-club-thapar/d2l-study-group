@@ -2,11 +2,32 @@
 
 ## Index
 * **Chapter 2: _Preliminaries_**
-  * [2.1 Data Manipulation](chapter_02_preliminaries/2.1_Data_Manipulation.ipynb) | [Colab](https://colab.research.google.com/drive/1025l520eT3cflPVAEqbjnFUGOyBT_BwD?usp=sharing)
-  * [2.2 Data Preprocessing](chapter_02_preliminaries/2.2_Data_Preprocessing.ipynb) | [Colab](https://colab.research.google.com/drive/1-zk6rjqL__vbRWR3FV5j0xn3ZkdwXWv7?usp=sharing)
-  * [2.3 Linear Algebra](chapter_02_preliminaries/2.3_Linear_Algebra.ipynb) | [Colab](https://colab.research.google.com/drive/1-nM7aefFNTSZcbD7WWzcitsKKc9PobHO?usp=sharing)
-  * [2.4 Calculus](chapter_02_preliminaries/2.4_Calculus.ipynb) | [Colab](https://colab.research.google.com/drive/1-izN6laRXau0ElpNaxf3-v63jpkB9BFR?usp=sharing)
-  * [2.5 Automatic Differentiation](pytorch/chapter_02_preliminaries/2.5_Automatic_Differentiation.ipynb) | [Colab](https://colab.research.google.com/drive/1-fQtm-HL7xiABRPQsiLjkfadBF9xdpkV?usp=sharing)
-  * [2.6 Probability](chapter_02_preliminaries/2.6_Probability.ipynb) | [Colab](https://colab.research.google.com/drive/1-b_K5cW-HSJSUGMYss-3pV1VGan4i_6r?usp=sharing)
-  * [2.7 Documentation](chapter_02_preliminaries/2.7_Documentation.ipynb) | [Colab](https://colab.research.google.com/drive/1-_fvBeICVJwYod-hJ7u_-DDo8v1mqXmA?usp=sharing)
+  * [2.1 Data Manipulation](chapter_02_preliminaries/2.1_Data_Manipulation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/2.1_Data_Manipulation.ipynb)
+  * [2.2 Data Preprocessing](chapter_02_preliminaries/2.2_Data_Preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.2_Data_Preprocessing.ipynb)
+  * [2.3 Linear Algebra](chapter_02_preliminaries/2.3_Linear_Algebra.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.3_Linear_Algebra.ipynb)
+  * [2.4 Calculus](chapter_02_preliminaries/2.4_Calculus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.4_Calculus.ipynb)
+  * [2.5 Automatic Differentiation](pytorch/chapter_02_preliminaries/2.5_Automatic_Differentiation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.5_Automatic_Differentiation.ipynb)
+  * [2.6 Probability](chapter_02_preliminaries/2.6_Probability.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.6_Probability.ipynb)
+  * [2.7 Documentation](chapter_02_preliminaries/2.7_Documentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/pytorch/chapter_02_preliminaries/chapter_02_preliminaries/2.7_Documentation.ipynb)
   * [2.8 Notation](chapter_02_preliminaries/notation.md)
+
+* **Chapter 3: _Linear Neural Networks_**
+  * [3.1 Linear Regression](/chapter_03_linear-networks/3.1_Linear_Regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+
+  * [3.2 Linear Regression Implementation from Scratch](/chapter_03_linear-networks/3.2_Linear_Regression_Implementation_from_Scratch.ipynb) | 
+  * [3.3 Concise Implementation of Linear Regression](/chapter_03_linear-networks/3.3_Concise_Implementation_of_Linear_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [3.4 Softmax Regression](/chapter_03_linear-networks/3.4_Softmax_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [3.5 The Image Classification Dataset](/chapter_03_linear-networks/3.5_The_Image_Classification_Dataset.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [3.6 Implementation of Softmax Regression from Scratch](/chapter_03_linear-networks/3.6_Linear_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [3.7 Concise Implementation of Softmax Regression](/chapter_03_linear-networks/3.7_Linear_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+* **Chapter 4: _Multilayer Perceptrons_**
+
+* **Chapter 5: _Deep Learning Computation_**
+* **Chapter 6: _Convolutional Neural Networks_**
+* **Chapter 7: _Modern Convolutional Neural Networks_**
+* **Chapter 8: _Recurrent Neural Networks_**
+* **Chapter 9: _Modern Neural Networks_**
+* **Chapter 10: _Attention Mechanisms_**
+* **Chapter 11: _Optimization Algorithms_**
