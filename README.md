@@ -8,6 +8,11 @@ This project is adapted from the original [Dive Into Deep Learning](https://d2l.
 
 Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `cloning` the repo or using [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks.
 
+# Installation
+:label:`chap_installation`
+
+Please follow the [INSTALL.md](INSTALL.md) to acquire all the tools and the code of the book which is necessary to begin our course.
+
 ## Contributing
 
   * Please feel free to open a Pull Request to contribute a notebook in PyTorch or tensorflow for the rest of the chapters. Before starting     out with the notebook, open an issue with the name of the notebook in order to contribute for the same. We will assign         that issue to you (if no one has been assigned earlier).
