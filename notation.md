@@ -3,7 +3,7 @@ The notation used throughout this book is summarized below
 
 ## Numbers
 
-* __x__: A scalar
+* x : A scalar
 
 * <img src="notations/vector.svg" align="top" width="20.48pt" height="20.0pt"/>: A vector
 
