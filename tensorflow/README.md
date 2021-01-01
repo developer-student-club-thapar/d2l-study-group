@@ -25,7 +25,7 @@
 
   * [3.3 Concise Implementation of Linear Regression](/chapter_03_linear_networks/3.3_Concise_Implementation_of_Linear_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_03_linear_networks/3.3_Concise_Implementation_of_Linear_Regression.ipynb)
 
-  * [3.4 Softmax Regression](/chapter_03_linear_networks/3.4_Softmax_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_03_linear_networks/3.4_Softmax_Regression.ipynb)
+  * [3.4 Softmax Regression](/chapter_03_linear_networks/3.4_Softmax_Regression.ipynb)
 
   * [3.5 The Image Classification Dataset](/chapter_03_linear_networks/3.5_The_Image_Classification_Dataset.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_03_linear_networks/3.5_The_Image_Classification_Dataset.ipynb)
 
