@@ -13,10 +13,19 @@ In the end, the official documentation provides plenty of descriptions and examp
 
 This book has kept the mathematical content to the minimum necessary to get a proper understanding of deep learning. However, it does not mean that this book is mathematics free. Thus, this chapter provides a rapid introduction to basic and frequently-used mathematics to allow anyone to understand at least _most_ of the mathematical content of the book. If you wish to understand _all_ of the mathematical content, further reviewing the [online appendix on mathematics](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) should be sufficient.
 
-*   2.1. Data Manipulation
-*   2.2. Data Preprocessing
-*   2.3. Linear Algebra
-*   2.4. Calculus
-*   2.5. Automatic Differentiation
-*   2.6. Probability]
-*   2.7. Documentation
+* **Chapter 2: _Preliminaries_**
+
+  * [2.1 Data Manipulation](2.1_Data_Manipulation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.1_Data_Manipulation.ipynb)
+
+  * [2.2 Data Preprocessing](2.2_Data_Preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.2_Data_Preprocessing.ipynb)
+
+  * [2.3 Linear Algebra](2.3_Linear_Algebra.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.3_Linear_Algebra.ipynb)
+
+  * [2.4 Calculus](2.4_Calculus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.4_Calculus.ipynb)
+
+  * [2.5 Automatic Differentiation](2.5_Automatic_Differentiation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.5_Automatic_Differentiation.ipynb)
+
+  * [2.6 Probability](2.6_Probability.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.6_Probability.ipynb)
+
+  * [2.7 Documentation](2.7_Documentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developer-student-club-thapar/d2l-study-group/blob/master/tensorflow/chapter_02_preliminaries/2.7_Documentation.ipynb)
+
